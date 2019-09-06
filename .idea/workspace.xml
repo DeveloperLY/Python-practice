@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c33be121-7fb6-461d-bd91-02b2f2756d05" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/16_multitask/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_multitask/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_multitask/_16_案例_多任务文件夹copy-v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_multitask/_17_案例_多任务文件夹copy-v2-显示进度.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_multitask/_18_自己实现一个可以迭代的对象-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_multitask/_19_自己实现一个可以迭代的对象-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_multitask/_20_自己实现一个可以迭代的对象-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_multitask/_21_自己实现一个可以迭代的对象-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_multitask/_22_自己实现一个可以迭代的对象-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_multitask/_23_fibonacci-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_multitask/_23_fibonacci-2-迭代器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_multitask/_24_使用生成器完成feibonacii数列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_multitask/_25_生成器的研究.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_multitask/_26_通过异常判断生成器已经结束.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_multitask/_27_通过send来启动生成器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_multitask/_28_使用yield完成多任务.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_multitask/_29_使用greenlet完成多任务.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_multitask/_30_使用gevent实现多任务.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_multitask/_31_gevent打补丁.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_multitask/_32_gevent_img_downloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_regex/_01_判断变量名是否符合要求.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_regex/_02_匹配163邮箱地址.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_web_server/_01_实现简单的http服务器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_web_server/_02_设置套接字选项.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_web_server/_03_返回inde.html页面.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_web_server/_04_根据用户的需求返回相应的页面.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_web_server/_05_使用多进程完成http服务器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_web_server/_06_使用多线程来完成http服务器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_web_server/_07_使用gevent来实现http服务器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_web_server/_08_单进程-单线程-非堵塞.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_web_server/_09_单进程-单线程-非阻塞-长链接.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_web_server/_10_epoll实现http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_web_server/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_mysql/_01_查询数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_mysql/_02_用面向对象的思想来实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_mysql/_03_添加一个商品分类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_mysql/_04_sql注入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_mysql/_05_防止sql注入.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_game/plane_sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/14_game/plane_sprites.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1QKCoPQ80EUpJKgxFOhplb5D5aO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/12_module_release" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/12_module_release" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python._01_查询数据">
+    <configuration name="_01_查询数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19_mysql" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19_mysql/_01_查询数据.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_07_使用gevent来实现http服务器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/18_web_server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18_web_server/_07_使用gevent来实现http服务器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_08_单进程-单线程-非堵塞" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/18_web_server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18_web_server/_08_单进程-单线程-非堵塞.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_09_单进程-单线程-非阻塞-长链接" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/18_web_server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18_web_server/_09_单进程-单线程-非阻塞-长链接.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_09___name__模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_module/_09___name__模块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_10_epoll实现http" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/18_web_server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18_web_server/_10_epoll实现http.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python._01_查询数据" />
+        <item itemvalue="Python._10_epoll实现http" />
+        <item itemvalue="Python._09_单进程-单线程-非阻塞-长链接" />
+        <item itemvalue="Python._08_单进程-单线程-非堵塞" />
+        <item itemvalue="Python._07_使用gevent来实现http服务器" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c33be121-7fb6-461d-bd91-02b2f2756d05" name="Default Changelist" comment="" />
+      <created>1567510074774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567510074774</updated>
+      <workItem from="1567510077986" duration="4736000" />
+      <workItem from="1567689485113" duration="6190000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_practice$_07_geventhttp.coverage" NAME="_07_使用gevent来实现http服务器 Coverage Results" MODIFIED="1567693860881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18_web_server" />
+    <SUITE FILE_PATH="coverage/Python_practice$_20_.coverage" NAME="_20_单例初始化一次 Coverage Results" MODIFIED="1567510098809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_oop_feature" />
+    <SUITE FILE_PATH="coverage/Python_practice$_09____.coverage" NAME="_09_单进程-单线程-非阻塞-长链接 Coverage Results" MODIFIED="1567693966974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18_web_server" />
+    <SUITE FILE_PATH="coverage/Python_practice$_08_.coverage" NAME="_08_模块的搜索顺序 Coverage Results" MODIFIED="1567525835775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_module" />
+    <SUITE FILE_PATH="coverage/Python_practice$_03_import.coverage" NAME="_03_import导入模块 Coverage Results" MODIFIED="1567525118595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_module" />
+    <SUITE FILE_PATH="coverage/Python_practice$_03_.coverage" NAME="_03_捕获未知错误 Coverage Results" MODIFIED="1567510692386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_expection" />
+    <SUITE FILE_PATH="coverage/Python_practice$_28_yield.coverage" NAME="_28_使用yield完成多任务 Coverage Results" MODIFIED="1567691014881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_multitask" />
+    <SUITE FILE_PATH="coverage/Python_practice$_10_.coverage" NAME="_10_导入包 Coverage Results" MODIFIED="1567526432443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_module" />
+    <SUITE FILE_PATH="coverage/Python_practice$_05_.coverage" NAME="_05_异常的传递 Coverage Results" MODIFIED="1567513727781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_expection" />
+    <SUITE FILE_PATH="coverage/Python_practice$_02_163.coverage" NAME="_02_匹配163邮箱地址 Coverage Results" MODIFIED="1567692372577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17_regex" />
+    <SUITE FILE_PATH="coverage/Python_practice$_04_import.coverage" NAME="_04_import同时指定别名 Coverage Results" MODIFIED="1567525298151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_module" />
+    <SUITE FILE_PATH="coverage/Python_practice$_24_feibonacii.coverage" NAME="_24_使用生成器完成feibonacii数列 Coverage Results" MODIFIED="1567690750549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_multitask" />
+    <SUITE FILE_PATH="coverage/Python_practice$_26_.coverage" NAME="_26_通过异常判断生成器已经结束 Coverage Results" MODIFIED="1567690866598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_multitask" />
+    <SUITE FILE_PATH="coverage/Python_practice$_03_inde_html.coverage" NAME="_03_返回inde.html页面 Coverage Results" MODIFIED="1567693462651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18_web_server" />
+    <SUITE FILE_PATH="coverage/Python_practice$_06_http.coverage" NAME="_06_使用多线程来完成http服务器 Coverage Results" MODIFIED="1567693806629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18_web_server" />
+    <SUITE FILE_PATH="coverage/Python_practice$_09___name__.coverage" NAME="_09___name__模块 Coverage Results" MODIFIED="1567526078768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_module" />
+    <SUITE FILE_PATH="coverage/Python_practice$_07_from_import.coverage" NAME="_07_from_import导入全部 Coverage Results" MODIFIED="1567525705899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_module" />
+    <SUITE FILE_PATH="coverage/Python_practice$_23_fibonacci_2_.coverage" NAME="_23_fibonacci-2-迭代器 Coverage Results" MODIFIED="1567690351508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_multitask" />
+    <SUITE FILE_PATH="coverage/Python_practice$_10_epollhttp.coverage" NAME="_10_epoll实现http Coverage Results" MODIFIED="1567694355247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18_web_server" />
+    <SUITE FILE_PATH="coverage/Python_practice$_02_.coverage" NAME="_02_设置套接字选项 Coverage Results" MODIFIED="1567693254865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18_web_server" />
+    <SUITE FILE_PATH="coverage/Python_practice$_05_from_import.coverage" NAME="_05_from_import导入 Coverage Results" MODIFIED="1567525466568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_module" />
+    <SUITE FILE_PATH="coverage/Python_practice$_01_http.coverage" NAME="_01_实现简单的http服务器 Coverage Results" MODIFIED="1567692929799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18_web_server" />
+    <SUITE FILE_PATH="coverage/Python_practice$_04_.coverage" NAME="_04_根据用户的需求返回相应的页面 Coverage Results" MODIFIED="1567693671266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18_web_server" />
+    <SUITE FILE_PATH="coverage/Python_practice$_29_greenlet.coverage" NAME="_29_使用greenlet完成多任务 Coverage Results" MODIFIED="1567691354779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_multitask" />
+    <SUITE FILE_PATH="coverage/Python_practice$_31_gevent.coverage" NAME="_31_gevent打补丁 Coverage Results" MODIFIED="1567691660981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_multitask" />
+    <SUITE FILE_PATH="coverage/Python_practice$setup.coverage" NAME="setup Coverage Results" MODIFIED="1567526923931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_module_release" />
+    <SUITE FILE_PATH="coverage/Python_practice$_32_gevent_img_downloader.coverage" NAME="_32_gevent_img_downloader Coverage Results" MODIFIED="1567691852547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_multitask" />
+    <SUITE FILE_PATH="coverage/Python_practice$_05_http.coverage" NAME="_05_使用多进程完成http服务器 Coverage Results" MODIFIED="1567693737403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18_web_server" />
+    <SUITE FILE_PATH="coverage/Python_practice$_18__1.coverage" NAME="_18_自己实现一个可以迭代的对象-1 Coverage Results" MODIFIED="1567689621115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_multitask" />
+    <SUITE FILE_PATH="coverage/Python_practice$_27_send.coverage" NAME="_27_通过send来启动生成器 Coverage Results" MODIFIED="1567690906685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_multitask" />
+    <SUITE FILE_PATH="coverage/Python_practice$_30_gevent.coverage" NAME="_30_使用gevent实现多任务 Coverage Results" MODIFIED="1567691610643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_multitask" />
+    <SUITE FILE_PATH="coverage/Python_practice$_25_.coverage" NAME="_25_生成器的研究 Coverage Results" MODIFIED="1567690802980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_multitask" />
+    <SUITE FILE_PATH="coverage/Python_practice$_06_from_import_.coverage" NAME="_06_from_import_注意事项 Coverage Results" MODIFIED="1567525617918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_module" />
+    <SUITE FILE_PATH="coverage/Python_practice$_23_fibonacci_1.coverage" NAME="_23_fibonacci-1 Coverage Results" MODIFIED="1567690347187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_multitask" />
+    <SUITE FILE_PATH="coverage/Python_practice$_08___.coverage" NAME="_08_单进程-单线程-非堵塞 Coverage Results" MODIFIED="1567693908351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18_web_server" />
+    <SUITE FILE_PATH="coverage/Python_practice$_06_.coverage" NAME="_06_抛出异常 Coverage Results" MODIFIED="1567514262261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_expection" />
+    <SUITE FILE_PATH="coverage/Python_practice$_01_.coverage" NAME="_01_查询数据 Coverage Results" MODIFIED="1567695433506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_mysql" />
+  </component>
+</project>
